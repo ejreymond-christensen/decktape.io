@@ -1,0 +1,99 @@
+.mdl-layout-title{
+    font-family: 'Righteous', cursive;
+    font-size: 60px;
+}
+
+.title-span{
+    color: #FF8F00;
+}
+
+.info-format{
+    color: #404142;
+    font-family: 'Baloo Bhai', cursive;
+}
+
+.info-title{
+    text-align: center;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 1.5em;
+    margin-bottom: 0;
+}
+
+.flex-bx{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-card{
+    display: flex;
+    flex-wrap: wrap;
+    width: 48%;
+}
+.list-flex{
+    display: flex;
+    padding-top: 0;
+}
+.mdl-list__item-primary-content{
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 14px;
+}
+
+.contact-card{
+    width: 98%;
+}
+
+.contact-title{
+    text-align: center;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 1.5em;
+    color: #404142;
+}
+
+.contact-text{
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 14px;
+}
+
+/* Margin / Padding adjustments */
+
+.card-container{
+    padding-top: 0;
+}
+
+.mdl-mini-footer{
+    padding: 0px 16px;
+}
+.list-title{
+    line-height: normal;
+}
+.list-title-p{
+    margin-bottom: 0;
+}
+.mdl-list__item{
+    padding: 0;
+    min-height: 30px;
+}
+.mdl-list{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 30px;
+    padding-right: 150px;
+}
+.list-one{
+    float: left;
+}
+.material-icons{
+    color: #607D8B;
+    font-size: .9em;
+    padding-right: 5px;
+}
+.mdl-layout__header{
+    background-image:
+        -webkit-linear-gradient(#7893a1, #607D8B 45%);
+    background-image:
+        -o-linear-gradient(#7893a1, #607D8B 45%);
+    background-image:
+        linear-gradient(#7893a1, #607D8B 45%);;
+}
+.git-img{
+    height: 18px;
+}
